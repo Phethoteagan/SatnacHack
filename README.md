@@ -1,0 +1,2 @@
+# SatnacHack
+Cybersecurity Hackathon
